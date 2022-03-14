@@ -7,7 +7,7 @@
 </div>
 <br/>
 
-## Website is Live : [mdbadges.sivu.tk](https://mdbadges.sivu.tk)
+## Website is Live : [mdbadge.sivu.tk](https://mdbadge.sivu.tk)
 
 # Features
 
