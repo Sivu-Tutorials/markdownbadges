@@ -1,6 +1,5 @@
 <div align="center">
  <h1> <img src="https://mdb.pushkaryadav.in/logo.svg" width="80px"><br/>MDB : Markdown Badges</h1>
- <a href="https://www.buymeacoffee.com/pushkarydv" target="_blank"><img alt="" src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=flat-square&logo=buy-me-a-coffee&logoColor=black" style="vertical-align:center" /></a>
  <img src="https://img.shields.io/npm/v/npm?style=flat-square"/>
  <img src="https://img.shields.io/website?style=flat-square&url=https%3A%2F%2Fmdb.pushkaryadav.in/"/> 
  <img src="https://img.shields.io/badge/License-GPL%20v3-brightgreen?style=flat-square"/>
@@ -8,7 +7,7 @@
 </div>
 <br/>
 
-## Website is Live : [mdb.pushkaryadav.in](https://mdb.pushkaryadav.in/)
+## Website is Live : [mdbadges.sivu.tk](https://mdbadges.sivu.tk)
 
 # Features
 
